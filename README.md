@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # uasbengkelkoding
 =======
 🌟 Sistem Input Kartu Rencana Studi (KRS)
